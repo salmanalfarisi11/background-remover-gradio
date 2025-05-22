@@ -3,11 +3,11 @@
 A simple, CPU-only Gradio web application that lets you upload an image, remove its background, and download the result as a transparent-PNG. Designed for ease of use and zero GPU requirements.
 
 [![Live Demo on Hugging Face](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/salman555/Background-Remover)
-[![Visits](https://visitor-badge.glitch.me/badge?page_id=salman555.Background-Remover)](https://huggingface.co/spaces/salman555/Background-Remover)
+[![Visits](https://visitor-badge.glitch.me/badge?page_id=salman555/Background-Remover)](https://huggingface.co/spaces/salman555/Background-Remover)
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 1. [Features](#features)  
 2. [Project Structure](#project-structure)  
@@ -21,7 +21,7 @@ A simple, CPU-only Gradio web application that lets you upload an image, remove 
 
 ---
 
-## Features
+## ✨ Features
 
 - **Background Removal**  
   Instantly strips the background from any image using the lightweight `rembg` ONNX model.
@@ -38,7 +38,7 @@ A simple, CPU-only Gradio web application that lets you upload an image, remove 
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 remove-bg-app/
@@ -54,14 +54,14 @@ remove-bg-app/
 
 ---
 
-## Prerequisites
+## ⚙️ Prerequisites
 
 - Python 3.8 or higher  
 - `pip` package manager  
 
 ---
 
-## Installation
+## 🔧 Installation
 
 1. Clone this repository:
 
@@ -84,7 +84,7 @@ remove-bg-app/
    pip install -r requirements.txt
    ```
 
-## Running Locally
+## 🚀 Running Locally
 
 Launch the app on your machine:
    ```bash
@@ -92,28 +92,29 @@ Launch the app on your machine:
    ```
 By default it will start on http://127.0.0.1:7860/. Open that URL in your browser to access the interface.
 
-## Usage
+## 🎯 Usage
 
 1. Upload an image in the Original pane.
 2. Click Remove Background.
 3. View the result in the Result pane.
 4. Click Download PNG to save your transparent-background image.
 
-## Contributing
+## 🤝 Contributing
 Contributions, bug reports and feature requests are welcome!
 
-## License
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Author & Credits
+## 🖋️ Author & Credits
 
 Developed by **[Salman Alfarisi](https://github.com/salmanalfarisi11)** © 2025  
 - GitHub: [salmanalfarisi11](https://github.com/salmanalfarisi11)  
 - LinkedIn: [salmanalfarisi11](https://linkedin.com/in/salmanalfarisi11)  
 - Instagram: [faris.salman111](https://instagram.com/faris.salman111)  
 
-
+Built with ❤️ and Gradio
+Feel free to ⭐ the repo and share feedback!
 
