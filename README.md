@@ -3,7 +3,6 @@
 A simple, CPU-only Gradio web application that lets you upload an image, remove its background, and download the result as a transparent-PNG. Designed for ease of use and zero GPU requirements.
 
 [![Live Demo on Hugging Face](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/salman555/Background-Remover)
-![Visitor Count](https://profile-counter.glitch.me/salman555/Background-Remover/count.svg)
 ![Visitor Count](https://profile-counter.glitch.me/salmanalfarisi11/count.svg)
 
 
