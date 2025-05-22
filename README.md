@@ -1,8 +1,3 @@
----
-title: Remove-Background App
-description: CPU-only background remover — upload an image, strip the background, and download a transparent PNG.
----
-
 # 🖼️ Remove-Background App
 
 A simple, CPU-only Gradio web application that lets you upload an image, remove its background, and download the result as a transparent-PNG. Designed for ease of use and zero GPU requirements.
