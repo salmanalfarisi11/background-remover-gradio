@@ -67,7 +67,7 @@ remove-bg-app/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/salman555/remove-bg-app.git
+   git clone https://github.com/salman555/remove-bg-app.git](https://github.com/salmanalfarisi11/background-remover-gradio.git
    cd remove-bg-app
    ```
 
